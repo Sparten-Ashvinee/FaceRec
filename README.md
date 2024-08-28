@@ -25,6 +25,12 @@ Face Recognition:
 Train the FaceNet model using embeddings generated from the detected faces.
 Assess recognition performance using metrics such as accuracy, precision, recall, and F1-score.
 
+Triplet Loss is a commonly used loss function in face recognition tasks to improve the model's ability to differentiate between similar and dissimilar faces. Below is an explanation and illustration of how Triplet Loss functions in the context of person identification.
+![image](https://github.com/user-attachments/assets/3b479405-90bf-43ff-8498-5dce10b4e1d4)
+
+![image](https://github.com/user-attachments/assets/91a4eb12-7829-4bc7-8a63-b0bb151d0c67)
+
+
 ### Optimization
 Conducted model optimization to improve performance and efficiency, ensuring enhanced accuracy and faster inference times. Quantized the model generating a perfectly optimized model for deployment on the Nvidia Jetson Nano edge devices. This model is deployed industrially for facial recognition-based attendance and safety compliance monitoring.
 
