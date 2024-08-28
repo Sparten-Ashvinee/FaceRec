@@ -34,7 +34,7 @@ Triplet Loss is a commonly used loss function in face recognition tasks to impro
 Conducted model optimization to improve performance and efficiency, ensuring enhanced accuracy and faster inference times. Quantized the model generating a perfectly optimized model for deployment on the Nvidia Jetson Nano edge devices. This model is deployed industrially for facial recognition-based attendance and safety compliance monitoring.
 
 ### Deployment
-We are developing a web inference system for testing, available at [Ashvinee.xyz](https://www.ashvinee.xyz/coming-soon-02).
+We are developing a web inference system for testing, available at [Ashvinee.xyz](https://www.ashvinee.xyz/coming-soon-02). Also deployment industrially on the Nvidia Jetson Nano edge devices for facial recognition-based attendance and safety compliance monitoring.
 
 ### Resources
   * [FaceNet](https://github.com/davidsandberg/facenet)
