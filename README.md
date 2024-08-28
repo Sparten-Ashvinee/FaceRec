@@ -4,11 +4,11 @@
 This project focuses on implementing advanced face recognition and detection techniques. For face detection, we utilize YOLO, an optimized version of YOLO designed for high-performance inference on edge devices. For face recognition, we employ FaceNet, a robust model renowned for generating high-quality face embeddings, which enables precise identification and verification.
 
 ### Rquirement
-python
-keras
-sklearn
-azureml
-keras_vggface
+  * python
+  * keras
+  * sklearn
+  * azureml
+  * keras_vggface
 
 ### Dataset
 The dataset consists of Indian face images collected from IEEE, ensuring diversity in terms of age, gender, ethnicity, and lighting conditions. The LFW dataset are added among this to increase the amount of the dataset.
